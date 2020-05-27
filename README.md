@@ -7,6 +7,9 @@
 ## Plugin Android Studio
 [Guia explicando](https://flutter.dev/docs/get-started/editor)
 
+## Plugins Flutter
+[Site de plugins](https://pub.dev/)
+
 ## Aulas
 ```
 1- Fundamentos básico e criação de paginas iniciais;
